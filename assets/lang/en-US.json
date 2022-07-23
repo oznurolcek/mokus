@@ -1,0 +1,90 @@
+{
+    "welcome" : "Welcome",
+
+    "onboard" : {
+        "continuePage": "Continue",
+        "next": "Next",
+        "skip": "Skip",
+        "back": "Back",
+        "title1": "Motivation and Focus",
+        "title2": "Focus",
+        "title3": "Take Notes",
+        "body1": "Focus on your work with MOKUS and always be highly motivated.",
+        "body2": "Focus on your work by keeping time and always stay focused.",
+        "body3": "Don't forget what you will do by saving your notes."
+    },
+
+    "login": {
+        "firstname" : "Firstname",
+        "lastname" : "Lastname",
+        "nickname" : "Nickname",
+        "login" : "Login", 
+        "signup" : "Sign Up",
+        "email" : "Email",
+        "password": "Password",
+        "singup_text": "Don't you have an Account?",
+        "singup_text2": "Already have an Account?",
+        "login_flash_message" : "Successfully logged in"
+    },
+
+    "signup_flash_message" : "Successfully registered", 
+
+    "timer" : {
+        "seconds" : "SECONDS",
+        "minutes" : "MINUTES",
+        "hours" : "HOURS",
+        "stop" : "STOP",
+        "cancel" : "CALCEL",
+        "start" : "START",
+        "resume" : "RESUME",
+        "break" : "BREAK",
+        "giveup" : "Give Up",
+        "startfocus" : "Start Focus"
+
+    },
+
+    "forgot": {
+        "your_password": "Forgot your password?",
+        "confirm_email" : "Confirm your email and we'll send the instructions.",
+        "reset_password" : "Reset Password",
+        "mail_send" : "Email has been sent!",
+        "mail_send_text" : "Please check your inbox.",
+        "valid_email" : "Enter a valid email.",
+        "remember_password": "Remember password?",
+        "didnt_receive_mail" : "Didn't you receive the mail?"
+    },
+    
+    "try_again": "Try Again",
+    "okay" : "Okay",
+    
+    "settings" : {
+        "change_language" : "Change Language",
+        "help_support" : "Help & Support",
+        "about" : "About Us",
+        "logout" : "Logout",
+        "dialog_title" : "Language Changed.",
+        "dialog_content" : "Restart the app for the language change to take effect.",
+        "change_language_dialog" : "Select the language you will use",
+        "turkish" : "Turkish",
+        "english" : "English"
+    },
+
+    "navigation_bar" : {
+        "focus" : "Focus",
+        "todo"  : "To Do",
+        "settings" : "Settings"
+    },
+
+    "helpandsupport_text" : "For questions, help and suggestions, you can contact us at helpandsupport@mokus.com",
+    "about_text" : "MOKUS is a combination of the words 'motivation' and 'focus'. The purpose of this application is to provide 25 minutes of focus with the pomodoro technique. It is not possible to pause the timer to ensure full focus. The 25-minute process rewinds when the time is stopped or when you switch to another page. At the same time, thanks to the to-do list, the things to be done during the work can be planned and removed from the list after they are done.",
+
+    "todo" : {
+        "todos" : "TO DO",
+        "addtodo" : "Add To Do List",
+        "hinttext" : "Add Mission",
+        "add" : "Add"
+    },
+
+    "error_message" : "You must be logged in to view this page."
+    
+}

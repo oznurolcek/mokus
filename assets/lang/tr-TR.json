@@ -1,0 +1,89 @@
+{
+    "welcome" : "Hoşgeldiniz",
+
+    "onboard": {
+        "continuePage": "Devam et",
+        "next": "İleri",
+        "skip": "Geç",
+        "back": "Geri",
+        "title1": "Motivaston ve Odak",
+        "title2": "Odaklan",
+        "title3": "Not Tut",
+        "body1": "MOKUS ile çalışmalarına odaklan ve hep motivasyonun yüksek olsun.",
+        "body2": "Süre tutarak çalışmana odaklan ve hep odaklı kal.",
+        "body3": "Notlarını kayıt altına alarak yapacaklarını unutma."
+    },
+
+    "login": {
+        "firstname" : "İsim",
+        "lastname" : "Soyisim",
+        "nickname" : "Kullanıcı Adı",
+        "login" : "Giriş Yap", 
+        "signup": "Üye Ol",
+        "email" : "Email",
+        "password": "Şifre",
+        "singup_text": "Hesabınız yok mu?",
+        "singup_text2": "Zaten bir hesabınız var mı?",
+        "login_flash_message" : "Başarıyla giriş yapıldı"
+    },
+
+    "signup_flash_message" : "Başarıyla kayıt olundu", 
+
+    "timer" : {
+        "seconds" : "SANİYE",
+        "minutes" : "DAKİKA",
+        "hours" : "SAAT",
+        "stop" : "DUR",
+        "cancel" : "İPTAL",
+        "start" : "BAŞLAT",
+        "resume" : "DEVAM ET",
+        "break" : "MOLA",
+        "giveup" : "Pes Et",
+        "startfocus" : "Odaklanmaya Başla"
+    },
+    
+    "forgot": {
+        "your_password": "Şifrenizi mi unuttunuz?",
+        "confirm_email" : "E-postanızı onayladıktan sonra size talimatları göndereceğiz.",
+        "reset_password" : "Şifreyi Sıfırla",
+        "mail_send" : "Email gönderildi!",
+        "mail_send_text" : "Lütfen gelen kutunuzu kontrol edin.",
+        "valid_email" : "Geçerli bir email girin.",
+        "remember_password": "Şifrenizi hatırlıyor musunuz?",
+        "didnt_receive_mail" : "Maili almadınız mı?"
+    },
+
+    "try_again": "Tekrar Dene",
+    "okay" : "Tamam",
+
+    "settings" : {
+        "change_language" : "Dil Değiştir",
+        "help_support" : "Yardım & Destek",
+        "about" : "Hakkımızda",
+        "logout" : "Çıkış Yap",
+        "dialog_title" : "Dil Değiştirildi.",
+        "dialog_content" : "Dil değişikliğinin uygulanabilmesi için uygulamayı yeniden başlatın.",
+        "change_language_dialog" : "Kullanacağınız dili seçiniz",
+        "turkish" : "Türkçe",
+        "english" : "İngilizce"
+    },
+
+    "navigation_bar" : {
+        "focus" : "Odaklan",
+        "todo"  : "Yapılacaklar",
+        "settings" : "Ayarlar"
+    },
+
+    "helpandsupport_text" : "Soru, yardım ve önerileriniz için helpandsupport@mokus.com adresinden bize ulaşabilirsiniz.",
+    "about_text" : "MOKUS, 'motivation' ve 'focus' kelimelerinin birleşiminden oluşmaktadır. Bu uygulamanın amacı, pomodoro tekniği ile 25 dakikalık odaklanmayı sağlamaktır. Odaklanmanın tamamıyla sağlanması amacıyla süreyi duraklatmak mümkün değildir. Süre durdurulduğunda veya başka bir sayfaya geçildiğinde 25 dakikalık süreç başa sarar. Aynı zamanda yapılacaklar listesi sayasinde çalışma sırasında yapılacak işler planlanabilir ve yapıldıktan sonra listeden kaldırılabilir.",
+
+    "todo" : {
+        "todos" : "YAPILACAKLAR",
+        "addtodo" : "Yapılacaklar Listesine Ekle",
+        "hinttext" : "Görev Ekle",
+        "add" : "Ekle"
+    },
+
+    "error_message" : "Bu sayfayı görüntüleyebilmek için giriş yapmanız gerekmektedir."
+    
+}
