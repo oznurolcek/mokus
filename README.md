@@ -1,6 +1,6 @@
-# proje
+# mokus
 
-A new Flutter project.
+A focus app.
 
 ## Getting Started
 
